@@ -8,13 +8,10 @@ A simple React application is build with using redux state management, to unders
 
 ## Project Screen Shot(s)
 
-#### Example:   
 
 ![image](https://user-images.githubusercontent.com/63471580/193540965-8acc3a32-6128-41b3-ad40-4a61ce1ab22f.png)
 
 
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
 
 ## Installation and Setup Instructions
 
@@ -36,7 +33,7 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/ideas`  
+`localhost:3000/`  
 
 ## Reflection
 
