@@ -10,7 +10,7 @@ A simple React application is build with using redux state management, to unders
 
 #### Example:   
 
-![alt text](https://github.com/[develop084]/[redux-counter]/blob/[main]/image.jpg?raw=true)
+![alt text](![image](https://user-images.githubusercontent.com/63471580/193540869-1c8e7077-e38a-41d3-8a03-46bcf5d7d819.png))
 
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
