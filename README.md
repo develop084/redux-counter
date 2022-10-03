@@ -1,23 +1,17 @@
-## Project Name & Pitch
+## Redux counter App 
 
-#### Example:
+#### About:
 
-TweetWorld 
+A simple React application is build with using redux state management, to understand how redux manage state.
 
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
 
-## Project Status
-(only necessary if incomplete)
-
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
 
 ## Project Screen Shot(s)
 
 #### Example:   
 
-[ PRETEND SCREEN SHOT IS HERE ]
+![alt text](https://github.com/[develop084]/[redux-counter]/blob/[main]/image.jpg?raw=true)
+
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
 
